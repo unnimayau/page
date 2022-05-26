@@ -1,0 +1,12 @@
+p{
+    color:red;
+}
+body{
+    background: url(./images/1.jpg);
+    background-size: cover;
+}
+div{
+    color: green;
+    width: 20%;
+    height: 200px;
+}

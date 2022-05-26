@@ -1,0 +1,26 @@
+div{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+}
+.a{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+
+}
+.aa{
+    background-color:black;
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+
+}
+.aaa{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin: 200px;
+}

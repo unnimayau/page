@@ -1,0 +1,86 @@
+#aaa{
+
+    position:fixed;
+    background: white;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    color: darkblue;
+    
+}
+.links:hover{
+    text-decoration: underline;
+    color:blue;
+    
+}
+.links a{
+    color:red
+
+
+}
+#welcome{
+    text-align: center;
+    background: linear-gradient(aqua,aquamarine);
+    
+}
+
+body{
+    text-align: center;
+}
+.image{
+    
+    margin-top: 200px;
+
+}
+h2{
+    color: black;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+h3{
+    color: black;
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: black;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: black;
+    font-size: medium;
+}
+#video{
+    text-decoration: underline;
+
+}
+#work{
+    text-decoration: underline;
+}
+#writings{
+    text-decoration: underline;
+}
+#contact{
+    text-decoration: underline;
+}
+
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    color: blue;
+        text-decoration: underline;
+}
+.contact_1 a:hover{
+    color: red;
+}
+
+
+
+.links{
+    display: inline;
+    padding-left: 100px;
+    padding-left: 100px;
+    
+}
